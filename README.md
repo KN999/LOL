@@ -1,2 +1,2 @@
-# LOL
+# LOL 😂
 A poor joke.
