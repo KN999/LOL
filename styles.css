@@ -1,0 +1,24 @@
+/* ==============================   BASE STYLING    ================================ */
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+.container {
+    width: 80%;
+    height: 50%;
+    margin: auto auto;
+    background-color: khaki;
+}
+
+.btn {
+    width: 200px;
+    height: 200px;
+}
